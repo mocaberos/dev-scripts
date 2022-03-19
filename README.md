@@ -1,7 +1,7 @@
 # 開発用スクリプト
 ### サブモジュールとして追加して利用する。
 ```shell
-$ git submodule add https://github.com/mocaberos/dev.git ./vendor/dev
+$ git submodule add https://github.com/mocaberos/dev-scripts.git ./vendor/dev-scripts
 ```
 
 - git
